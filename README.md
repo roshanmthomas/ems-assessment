@@ -181,12 +181,6 @@ ems-assessment/
 │   └── config.json            # Application configuration
 ├── Dockerfile                 # Docker container definition
 ├── requirements.txt           # Python dependencies
-├── pyproject.toml            # Modern Python packaging
-├── setup.py                  # Traditional packaging
-├── tox.ini                   # Testing configuration
-├── Makefile                  # Development tasks
-├── .pre-commit-config.yaml   # Pre-commit hooks
-├── MANIFEST.in              # Package manifest
 ├── .gitignore               # Git ignore rules
 ├── LICENSE                  # MIT License
 ├── README.md                # This file
