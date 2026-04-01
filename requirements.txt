@@ -1,0 +1,5 @@
+azure-iot-device
+pymodbus
+ocpp
+pytest
+pytest-asyncio
